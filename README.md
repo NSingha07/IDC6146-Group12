@@ -5,8 +5,8 @@ This way, we capture the structure and context of the document. We use our model
 document part and its content. Our model offers a flexible and effective way to retrieve documents based on their structured content.
 
 Data Scouce: 
-The Alice in Wonderland dataset can be found at: \url{https://www.kaggle.com/datasets/chandan2495/alice-in-wonderland-gutenbergproject}
+The Alice in Wonderland dataset can be found at: \url https://www.kaggle.com/datasets/chandan2495/alice-in-wonderland-gutenbergproject
 
-Nietzsche's bibliography dataset is available at: \url{https://www.kaggle.com/datasets/akouaorsot/nietzsches-bibliography}
+Nietzsche's bibliography dataset is available at: \url https://www.kaggle.com/datasets/akouaorsot/nietzsches-bibliography
 
 
